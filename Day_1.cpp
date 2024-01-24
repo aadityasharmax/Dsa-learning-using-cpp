@@ -6,5 +6,13 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Namaste ji";
+    cout<<"Namaste ji"<<endl;
+
+//Data Types
+
+char st = 'a';
+cout<<st<<endl;
+
+bool bl = false;
+cout<<bl<<endl;
 }
